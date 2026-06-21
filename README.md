@@ -1,1 +1,1 @@
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="letitbedull" data-color="#cccccc" data-emoji="💰"  data-font="Inter" data-text="Support if you can" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+[![Support if you can](https://img.shields.io/badge/💰%20Support%20if%20you%20can-cccccc?style=for-the-badge)](https://www.buymeacoffee.com/letitbedull)
